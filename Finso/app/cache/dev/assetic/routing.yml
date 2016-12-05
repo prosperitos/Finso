@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /Users/kiemde/Sites/Finso/Finso/app/config/routing_dev.yml
